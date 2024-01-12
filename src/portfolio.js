@@ -301,6 +301,18 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Full Stack Developer",
+          company: "Cisco Meraki",
+          company_url: "https://meraki.cisco.com/",
+          logo_path: "cisco-meraki-logo.avif",
+          duration: "March 2021 - Present",
+          location: "Pune, India",
+          description: `Handling order flow in Meraki dashboard.
+          Successfully integrated multiple systems with Salesforce, streamlining data flow and enhancing overall efficiency.Debugging the application in case any issues occur while communicating with multiple applications.
+          `,
+          color: "green",
+        },
+        {
           title: "Research & Development Engineer",
           company: "Dassault Systems",
           company_url: "https://www.3ds.com/",
