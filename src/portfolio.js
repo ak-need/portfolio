@@ -14,17 +14,15 @@ const greeting = {
   logo_name: "Amit Kumar",
   nickname: "aryan",
   full_name: "Amit kumar",
-  subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
-  resumeLink:
-    "",
+  subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+  resumeLink: "",
   mail: "mailto:aa14to18cse@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/ak-need",
-  linkedin: "https://www.linkedin.com/in/amit-aryan/",
+  linkedin: "https://www.linkedin.com/in/akneed/",
   gmail: "aa14to18cse@gmail.com",
   gitlab: "https://gitlab.com/thewayofstudy",
   facebook: "https://www.facebook.com/amit.aryan.501/",
@@ -43,7 +41,7 @@ const skills = {
         "⚡ Building responsive website front end using ReactJS",
         "⚡ Developing mobile applications using React Native",
         "⚡ Creating application backend in Ruby, Golang, Python, etc..",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean / Twilio / Stripe / Razorpay"
+        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean / Twilio / Stripe / Razorpay",
       ],
       softwareSkills: [
         {
@@ -151,8 +149,8 @@ const skills = {
           style: {
             color: "#E94E32",
           },
-        }
-      ]
+        },
+      ],
     },
     {
       title: "Cloud Infra-Architecture",
@@ -245,9 +243,7 @@ const degrees = {
       logo_path: "tnb.jpeg",
       alt_name: "TNB",
       duration: "2012-2014",
-      descriptions: [
-        "Got best student award in Mathematics.",
-      ],
+      descriptions: ["Got best student award in Mathematics."],
       website_link: "http://tnbcollege.org/",
     },
   ],
@@ -259,8 +255,7 @@ const certifications = {
       title: "Rails",
       subtitle: "Rails Udemy",
       logo_path: "rails.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "Rails",
       // color_code: "#2AAFED",
       color_code: "#CC0000",
@@ -269,8 +264,7 @@ const certifications = {
       title: "React",
       subtitle: "React Udemy",
       logo_path: "react.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "react",
       color_code: "#E2405F",
     },
@@ -278,8 +272,7 @@ const certifications = {
       title: "Postman Student Expert",
       subtitle: "Postman",
       logo_path: "postman.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "Postman",
       // color_code: "#f36c3d",
       color_code: "#fffbf3",
@@ -314,11 +307,10 @@ const experience = {
           logo_path: "ds.jpeg",
           duration: "March 2021 - Present",
           location: "Pune, India",
-          description:
-          `Design REST API for SCIM (System for Cross-domain Indentity Management).
+          description: `Design REST API for SCIM (System for Cross-domain Indentity Management).
           Code Review
           `,
-            // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
         },
         {
@@ -328,14 +320,13 @@ const experience = {
           logo_path: "eddygoo.png",
           duration: "July 2020 - Feb 2021",
           location: "Bangalore, India",
-          description:
-          `Train, manage and provide guidance to junior software development staff.
+          description: `Train, manage and provide guidance to junior software development staff.
           Work closely with CEO on change request functions.
           Develops new and maintains existing applications.
           Increased productivity and problem-solving technics by 50%.
           `,
           color: "#ee3c26",
-        }
+        },
       ],
     },
     {
@@ -348,8 +339,7 @@ const experience = {
           logo_path: "ms.jpeg",
           duration: "Nov 2016 - March 2018",
           location: "Work from Home",
-          description:
-          "Program Coordinator",
+          description: "Program Coordinator",
           color: "#040f26",
         },
         {
@@ -360,7 +350,7 @@ const experience = {
           duration: "Nov 2016 - Present",
           location: "Work from Home",
           description:
-          "Contribute to Open Source Community and Open Source Project.",
+            "Contribute to Open Source Community and Open Source Project.",
           color: "#040f26",
         },
         {
@@ -373,7 +363,7 @@ const experience = {
           description:
             "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
           color: "#D83B01",
-        }
+        },
       ],
     },
   ],
@@ -410,15 +400,16 @@ const projects = {
       id: "0",
       name: "Vendors mangement apps",
       url: "https://github.com/ak-need/diamond-web-app",
-      description: "This is a vendors managment app where vendor can manage thier product and employees.",
+      description:
+        "This is a vendors managment app where vendor can manage thier product and employees.",
       languages: [
         {
           name: "Rails",
           iconifyClass: "logos-rails",
         },
       ],
-    }
-  ]
+    },
+  ],
 };
 
 export {
